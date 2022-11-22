@@ -22,7 +22,6 @@ import (
 */
 
 func main() {
-
 	var fields = flag.Int("f", -1, "выбрать поля (колонки)")
 	var delimiter = flag.String("d", "\t", "использовать другой разделитель")
 	var separated = flag.Bool("s", false, "только строки с разделителем")
