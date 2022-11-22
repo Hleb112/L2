@@ -1,4 +1,4 @@
-module github.com/EminZalaev/TheThirdTrialForSamurai/tree/main/develop/dev01
+module github.com/Hleb112/L2/tree/main/develop/dev01
 
 go 1.18
 
